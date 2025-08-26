@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hola, soy Elías</h1>
 <p align="center">
-  💻 Desarrollador apasionado por la tecnología | 🚀 19 años | 🎓 DAM | 🏢 Actualmente en <b>NTT Data</b>
+  💻 Desarrollador apasionado por la tecnología | 19 años |  DAM | Actualmente en <b>NTT Data</b>
 </p>
 
 ---
