@@ -62,7 +62,8 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" /></a>
   <a href="https://www.eclipse.org/" target="_blank"><img src="https://skillicons.dev/icons?i=eclipse" /></a>
   <a href="https://netbeans.apache.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/NetBeans_Logo.svg" height="32" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/NetBeans-2C2255?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"/>
+  </a>
   <a href="https://notepad-plus-plus.org/" target="_blank"><img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black"/></a>
 </p>
 
