@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/ZfbKrmb/banner-github.png" alt="Banner Elías" />
 </p>
 
-<h1 align="center">👋 Hola, soy Elías</h1>
+<h1 align="center">Hola, soy Elías</h1>
 <p align="center">
   💻 Desarrollador apasionado por la tecnología | 19 años |  DAM | Actualmente en <b>NTT Data</b>
 </p>
@@ -11,7 +11,7 @@
 ---
 
 ## 🔥 Sobre mí  
-- 🚀 Fullstack en formación constante  
+- 🚀 En formación constante  
 - 📚 Siempre aprendiendo y compartiendo conocimiento  
 - 🎯 Apuntando a proyectos que generen impacto  
 - 👨🏻‍💻 Con experiencia en **Frontend** y **Backend**  
